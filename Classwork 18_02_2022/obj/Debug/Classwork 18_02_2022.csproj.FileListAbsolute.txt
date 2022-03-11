@@ -1,0 +1,11 @@
+C:\Users\Карим\source\repos\Classwork 18_02_2022\bin\Debug\Classwork 18_02_2022.exe.config
+C:\Users\Карим\source\repos\Classwork 18_02_2022\bin\Debug\Classwork 18_02_2022.exe
+C:\Users\Карим\source\repos\Classwork 18_02_2022\bin\Debug\Classwork 18_02_2022.pdb
+C:\Users\Карим\source\repos\Classwork 18_02_2022\obj\Debug\Classwork 18_02_2022.csproj.AssemblyReference.cache
+C:\Users\Карим\source\repos\Classwork 18_02_2022\obj\Debug\Classwork_18_02_2022.Add_Human.resources
+C:\Users\Карим\source\repos\Classwork 18_02_2022\obj\Debug\Classwork_18_02_2022.Form1.resources
+C:\Users\Карим\source\repos\Classwork 18_02_2022\obj\Debug\Classwork_18_02_2022.Properties.Resources.resources
+C:\Users\Карим\source\repos\Classwork 18_02_2022\obj\Debug\Classwork 18_02_2022.csproj.GenerateResource.cache
+C:\Users\Карим\source\repos\Classwork 18_02_2022\obj\Debug\Classwork 18_02_2022.csproj.CoreCompileInputs.cache
+C:\Users\Карим\source\repos\Classwork 18_02_2022\obj\Debug\Classwork 18_02_2022.exe
+C:\Users\Карим\source\repos\Classwork 18_02_2022\obj\Debug\Classwork 18_02_2022.pdb
